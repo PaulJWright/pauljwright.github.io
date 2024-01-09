@@ -1,16 +1,21 @@
 experiences:
+  - place: "DIAS"
+    time: "Apr '23 - present"
+    title: "Scientific ML Engineering"
+    category: "work"
+
   - place: "SpaceML"
-    time: "Jan 21' - present"
+    time: "Jan '21 - present"
     title: "Steering Team Member"
     category: "school"
 
   - place: "Small Startup"
-    time: "Jan 21' - present"
+    time: "Jan '21 - Jan '23"
     title: "Senior ML Scientist"
     category: "work"
 
   - place: "Wright AI Ltd"
-    time: "May '19 - June '21"
+    time: "May '19 - present"
     title: "Applied ML Consultant"
     category: "work"
 
