@@ -1,5 +1,18 @@
 papers:
 
+  - title: "SMARPs and SHARs: Two solar cycles of active region data"
+    authors: "Monica Bobra, <b>Paul J. Wright</b>, Xudong Sun (孙旭 东), Michael J Turmon"
+    venue: "Astrophysical Journal Supplement Series, 2021"
+    paper_pdf: "https://iopscience.iop.org/article/10.3847/1538-4365/ac1f1d"
+    selected: y
+
+  - title: "Accelerating Open Science for AI in Heliophysics"
+    authors: "Dolores Garcia, <b>Paul J. Wright</b>, Robert Jarolim, Mark Cheung, James Parr"
+    venue: "Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022"
+    workshop_website: "https://tsrml2022.github.io/"
+    paper_pdf: "https://openreview.net/forum?id=EdCq6kFGhl"
+    selected: y
+
   - title: "Guiding Heliophysics Toward an Enhanced Transdisciplinary Framework"
     authors: "Jenny L. Verniero, James Juno, V . M. Sadykov, <b>Paul J. Wright</b>, Sam J. Schonfeld, Ben L. Alterman"
     venue: "Heliophysics 2050 Workshop, 2020"
